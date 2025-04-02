@@ -25,7 +25,7 @@
     <img align="center" alt="vscode" height="40" width="40" src="https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000">
     <img align="center" alt="Git" height="40" width="40" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
     <img align="center" alt="Git" height="40" width="40" src="https://github.com/user-attachments/assets/85b269e0-956a-4f01-b17c-23a59f5e02ea"> 
-    <img align="center" alt="React" height="40" width="40" src=https://github.com/user-attachments/assets/ce841037-4c06-4708-9f9c-065c60fd69b3"
+    <img align="center" alt="React" height="40" width="40" src=https://github.com/user-attachments/assets/ce841037-4c06-4708-9f9c-065c60fd69b3/science.png">
 
     
 
