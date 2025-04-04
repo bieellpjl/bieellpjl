@@ -4,7 +4,7 @@
  👨🏽‍💻 - Victor Gabriel, I am Full Stack <br>
  💻 - Internet Computer Technician (3/3) - Serviço Nacional de Aprendizagem Industrial, Senai Alagoas
   </div>
-br>
+
   <a href="https://github.com/bieellpjl">
      
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bieellpjl&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -14,7 +14,7 @@ br>
 
 <br>
 <hr>
-    <br>   
+  
   <div align="center" style="display: inline_block">
     <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
