@@ -1,7 +1,7 @@
 
   <hr>
   <div align="left" style="display: inline_block">
- 👨🏽‍💻 - Victor Gabriel, 𝕵𝖚𝖘𝖙 𝕻𝖗𝖔𝖌𝖗𝖆𝖒𝖒𝖎𝖓𝖌🧑🏽‍💻  <br>
+ 👨🏽‍💻 - Victor Gabriel Pinto, 𝕵𝖚𝖘𝖙 𝕻𝖗𝖔𝖌𝖗𝖆𝖒𝖒𝖎𝖓𝖌🧑🏽‍💻  <br>
  💻 - Internet Computer Technician (3/3) - Serviço Nacional de Aprendizagem Industrial, Senai Alagoas
   </div>
   <br>
@@ -25,7 +25,7 @@
     <img align="center" alt="Git" height="40" width="40" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
     <img align="center" alt="Git" height="40" width="40" src="https://github.com/user-attachments/assets/85b269e0-956a-4f01-b17c-23a59f5e02ea"> 
     <img align="center" alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
-  
+  NA MAY DELICIA
 
     
 
