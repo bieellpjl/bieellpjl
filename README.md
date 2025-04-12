@@ -25,7 +25,7 @@
     <img align="center" alt="Git" height="40" width="40" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
     <img align="center" alt="Git" height="40" width="40" src="https://github.com/user-attachments/assets/85b269e0-956a-4f01-b17c-23a59f5e02ea"> 
     <img align="center" alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
-  NA MAY DELICIA
+
 
     
 
