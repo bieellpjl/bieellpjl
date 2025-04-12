@@ -1,7 +1,7 @@
 
   <hr>
   <div align="left" style="display: inline_block">
- 👨🏽‍💻 - Victor Gabriel, começando a programar <br>
+ 👨🏽‍💻 - Victor Gabriel, 𝕵𝖚𝖘𝖙 𝕻𝖗𝖔𝖌𝖗𝖆𝖒𝖒𝖎𝖓𝖌🧑🏽‍💻  <br>
  💻 - Internet Computer Technician (3/3) - Serviço Nacional de Aprendizagem Industrial, Senai Alagoas
   </div>
   <br>
