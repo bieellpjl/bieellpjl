@@ -1,7 +1,7 @@
 
   <hr>
   <div align="left" style="display: inline_block">
- 👨🏽‍💻 - Victor Gabriel, E EU GOSTO DE DAR O COOLk <br>
+ 👨🏽‍💻 - Victor Gabriel, I am FullStack <br>
  💻 - Internet Computer Technician (3/3) - Serviço Nacional de Aprendizagem Industrial, Senai Alagoas
   </div>
   <br>
