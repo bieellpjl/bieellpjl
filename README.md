@@ -1,7 +1,7 @@
 <table>
   <hr>
   <div align="left" style="display: inline_block">
- 👨🏽‍💻 - victor gabriel, I am FULLSTACK <br>
+ 👨🏽‍💻 - victor gabriel, 𝕵𝖚𝖘𝖙 𝕻𝖗𝖔𝖌𝖗𝖆𝖒𝖒𝖎𝖓𝖌 <br>
  💻 - Internet Computer Technician (3/3) - Serviço Nacional de Aprendizagem Industrial, Senai Alagoas
 
   </div>
