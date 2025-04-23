@@ -6,13 +6,11 @@
 
   </div>
   <br>
-  <a href="https://github.com/bieellpjl">
-     
-    
+<div display="flex">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bieellpjl&show_icons=true&theme=shadow_red&include_all_commits=true&count_private=true"/>
-
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bieellpjl&layout=compact&langs_count=6&theme=shadow_red"/>
     <br>
+    </div>
  
  
 
