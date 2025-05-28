@@ -8,7 +8,7 @@
   <br>
 <div display="flex">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bieellpjl&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bieellpjl&layout=compact&hide=html,css&langs_count=6&theme=midnight-purple"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bieellpjl&layout=compact&hide=html,css,javascript&langs_count=6&theme=midnight-purple"/>
     <br>
     </div>
  
