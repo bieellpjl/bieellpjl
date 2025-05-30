@@ -26,6 +26,7 @@
     <img align="center" alt="vscode" height="40" width="40" src="https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000">
     <img align="center" alt="Git" height="40" width="40" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"> 
     <img align="center" alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
+    <img align="center" alt="Atila-MySQL" height="40" width="40" src="https://img.icons8.com/?size=100&id=rgPSE6nAB766&format=png&color=000000">
    <br>
   <hr>
 
