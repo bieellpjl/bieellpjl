@@ -29,7 +29,10 @@
     <img align="center" alt="Atila-MySQL" height="40" width="40" src="https://img.icons8.com/?size=100&id=rgPSE6nAB766&format=png&color=000000">
    <br>
   <hr>
-
+  <p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/bieellpjl/count.svg"/>
+</p>
 </div>
  </div>
      <br>
