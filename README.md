@@ -1,4 +1,4 @@
-<img width=1000vh src="https://capsule-render.vercel.app/api?type=waving&color=#3400B7&height=120&section=header"/>
+<img width=1000vh src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=header"/>
 <table>
   <hr>
   <div align="left" style="display: inline_block">
