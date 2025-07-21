@@ -31,8 +31,7 @@
    <br>
   <hr>
   <p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/bieellpjl/count.svg"/>
+ 
 </p>
 </div>
  </div>
