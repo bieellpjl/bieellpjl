@@ -19,15 +19,16 @@
 <hr>
 
   <div align="center" style="display: inline_block">
-    <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="JS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="SCSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-    <img align="center" alt="Figma" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-    <img align="center" alt="vscode" height="40" width="40" src="https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000">
-    <img align="center" alt="Git" height="40" width="40" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"> 
-    <img align="center" alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
-    <img align="center" alt="Atila-MySQL" height="40" width="40" src="https://img.icons8.com/?size=100&id=rgPSE6nAB766&format=png&color=000000">
+    <p align="center">
+  <img alt="HTML" src="https://skillicons.dev/icons?i=html" width="60" height="60"/>
+  <img alt="CSS" src="https://skillicons.dev/icons?i=css" width="60" height="60"/>
+  <img alt="JavaScript" src="https://skillicons.dev/icons?i=js" width="60" height="60"/>
+  <img alt="React" src="https://skillicons.dev/icons?i=react" width="60" height="60"/>
+  <img alt="Node.js" src="https://skillicons.dev/icons?i=nodejs" width="60" height="60"/>
+  <img alt="MySQL" src="https://skillicons.dev/icons?i=mysql" width="60" height="60"/>
+  <img alt="Git" src="https://skillicons.dev/icons?i=git" width="60" height="60"/>
+  <img alt="Vercel" src="https://skillicons.dev/icons?i=vercel" width="60" height="60"/>
+</p>
    <br>
   <hr>
   <p align="center"> 
@@ -38,7 +39,7 @@
      <br>
    <hr>
    <div align="center" style="display: inline_block">
-   <a href="https://www.instagram.com/bieelzrr/" target="_blank"><img align="center" src="https://img.shields.io/badge/-bieelzrr-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+   <a href="https://www.instagram.com/bieellpjl/" target="_blank"><img align="center" src="https://img.shields.io/badge/-bieelzrr-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     </div>
  </div>
 
