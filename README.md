@@ -12,12 +12,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bieellpjl&layout=compact&hide=&langs_count=6&theme=midnight-purple"/>
     <br>
     </div>
- 
- 
-
-<br>
-<hr>
-
   <div align="center" style="display: inline_block">
     <p align="center">
   <img alt="HTML" src="https://skillicons.dev/icons?i=html" width="60" height="60"/>
