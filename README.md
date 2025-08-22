@@ -28,6 +28,7 @@
   <img alt="MySQL" src="https://skillicons.dev/icons?i=mysql" width="60" height="60"/>
   <img alt="Git" src="https://skillicons.dev/icons?i=git" width="60" height="60"/>
   <img alt="Vercel" src="https://skillicons.dev/icons?i=vercel" width="60" height="60"/>
+   <img alt="Figma" src="https://skillicons.dev/icons?i=figma" width="60" height="60"/>   
 </p>
    <br>
   <hr>
