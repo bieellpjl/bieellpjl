@@ -24,6 +24,7 @@
   <img alt="Vercel" src="https://skillicons.dev/icons?i=vercel" width="60" height="60"/>
   <img alt="Figma" src="https://skillicons.dev/icons?i=figma" width="60" height="60"/>   
   <img alt="Cypress" src="https://skillicons.dev/icons?i=cypress" width="60" height="60"/>
+  <img alt="Jest" src="https://skillicons.dev/icons?i=jest" width="60" height="60"/>
 </p>
    <br>
   <hr>
