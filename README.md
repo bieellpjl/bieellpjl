@@ -7,11 +7,6 @@
 
   </div>
   <br>
-<div display="flex">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bieellpjl&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bieellpjl&layout=compact&hide=&langs_count=6&theme=midnight-purple"/>
-    <br>
-    </div>
   <div align="center" style="display: inline_block">
     <p align="center">
   <img alt="HTML" src="https://skillicons.dev/icons?i=html" width="60" height="60"/>
