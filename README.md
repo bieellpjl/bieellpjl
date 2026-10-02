@@ -1,47 +1,61 @@
+## 🧑‍🎓 Sobre Mim
+- 🎓 Técnico em Informática para a Internet (3/3) - <strong>Serviço Nacional de Aprendizagem Industrial, SENAI Alagoas</strong>
+- 💻 Aprendiz de TI na <strong>Comercial Mascarenhas</strong> - Foco em soluções
+- 🔧 Experiência com tecnologias como <strong>Python, React, Node.js, Express, Cypress, Jest e MySQL</strong>
 
-<table>
-  <hr>
-  <div align="left" style="display: inline_block">
- 👨🏽‍💻 - victor gabriel, I am FullStack <br>
- 💻 - Internet Computer Technician - Serviço Nacional de Aprendizagem Industrial, Senai Alagoas
+---
 
-  </div>
-  <br>
-  <div align="center" style="display: inline_block">
-    <p align="center">
-  <img alt="HTML" src="https://skillicons.dev/icons?i=html" width="60" height="60"/>
-  <img alt="CSS" src="https://skillicons.dev/icons?i=css" width="60" height="60"/>
-  <img alt="JavaScript" src="https://skillicons.dev/icons?i=js" width="60" height="60"/>
-  <img alt="React" src="https://skillicons.dev/icons?i=react" width="60" height="60"/>
-  <img alt="Node.js" src="https://skillicons.dev/icons?i=nodejs" width="60" height="60"/>
-  <img alt="MySQL" src="https://skillicons.dev/icons?i=mysql" width="60" height="60"/>
-  <img alt="Git" src="https://skillicons.dev/icons?i=git" width="60" height="60"/>
-  <img alt="Vercel" src="https://skillicons.dev/icons?i=vercel" width="60" height="60"/>
-  <img alt="Figma" src="https://skillicons.dev/icons?i=figma" width="60" height="60"/>   
-  <img alt="Cypress" src="https://skillicons.dev/icons?i=cypress" width="60" height="60"/>
-  <img alt="Jest" src="https://skillicons.dev/icons?i=jest" width="60" height="60"/>
-</p>
-   <br>
-  <hr>
-  <p align="center"> 
- 
-</p>
+## 📊 Estatísticas do GitHub
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=bieellpjl&show_icons=true&hide_title=true&theme=vision-friendly-dark&hide_border=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bieellpjl&layout=compact&theme=vision-friendly-dark&hide_border=true&hide=html,typescript,objective-j,css"/>
 </div>
- </div>
-     <br>
-   <hr>
-   <div align="center" style="display: inline_block">
-   <a href="https://www.instagram.com/bieellpjl/" target="_blank"><img align="center" src="https://img.shields.io/badge/-bieellpjl-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    </div>
- </div>
 
+---
 
+## 🛠️ Tecnologias e Ferramentas que Utilizo
+#### Linguagens de Marcação e Folhas de Estilo
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+#### Linguagens de Programação
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=black)
+#### Bibliotecas e Frameworks
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Express](https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=61DAFB)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-20232A?style=for-the-badge&logo=cypress&logoColor=61DAFB)
+![Jest](https://img.shields.io/badge/Jest-20232A?style=for-the-badge&logo=jest&logoColor=c21325)
+#### Bancos de Dados
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E)
+
+#### Versionamento
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+#### Ferramentas
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Thunder Client](https://img.shields.io/badge/Thunder_Client-000?style=for-the-badge&logo=thunderclient&logoColor=blue)
+![GLPI](https://img.shields.io/badge/GLPI-000?style=for-the-badge&logo=glpi&logoColor=white)
+
+---
+
+## 🌐 Minhas Contribuições
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=caioarchive&theme=dark&hide_border=true" />
+</div>
+
+---
+
+## 🔗 Links
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <a href="https://www.linkedin.com/in/victor-gabriel-47b668384/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/bieellpjl" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/bieellpjl" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </p>
- 
-
- 
-
- 
- 
