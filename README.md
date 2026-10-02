@@ -8,7 +8,7 @@
 ## 📊 Estatísticas do GitHub
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=bieellpjl&show_icons=true&hide_title=true&theme=vision-friendly-dark&hide_border=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bieellpjl&layout=compact&theme=vision-friendly-dark&hide_border=true&hide=html,typescript,objective-j,css"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bieellpjl&layout=compact&theme=vision-friendly-dark&hide_border=true=html,typescript,objective-j,css"/>
 </div>
 
 ---
